@@ -8388,12 +8388,12 @@ h1, h2, h3, h4, h5,
       display: block; }
   .slider-text .icon-wrap .icon {
     width: 70px;
-    height: 70px;
+    height: 45px;
     background: #DD8F3C;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
-    border-radius: 50%; }
+    border-radius: 20%; }
     .slider-text .icon-wrap .icon span {
       color: #fff; }
   .slider-text .icon-wrap .heading-title {
