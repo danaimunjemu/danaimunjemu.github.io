@@ -8734,6 +8734,10 @@ h1, h2, h3, h4, h5,
   height: 600px;
   margin-bottom: 40px; }
 
+.round-img .img{
+  border-radius: 5px;
+}
+
 .car-details span.subheading {
   font-size: 12px;
   text-transform: uppercase;
@@ -8980,6 +8984,7 @@ h1, h2, h3, h4, h5,
   .img-2 {
     height: 600px;
     margin-bottom: 40px; } }
+    
 
 .services-wrap {
   padding: 4em 3em;
